@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Colin Angus"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Senior Research Fellow in the Sheffield Alcohol Research Group. Alcohol policy modeller interested in policy appraisal and evaluation with a focus on health inequalities. Also a big fan of graphs, cycling, maps and cake"
   location         : "Sheffield, UK"
   employer         : "University of Sheffield
