@@ -13,6 +13,8 @@ An idiot's guide to making 3D maps
 
 I love old maps – partly because it’s always interesting to see how the world used to look, but mostly because they are just incredibly beautiful. So I’ve been really enjoying the work of [Sean Conway/@geo_spatialist](https://twitter.com/geo_spatialist) who combines vintage maps from all over the world with modern elevation data to create amazing 3D versions. I am also an idiot, but I try not to let that hold me back too much in life, so I thought it would be fun to try and create something similar. And somehow, it kind of works. This post is my attempt to explain this process so others can make their own maps like this. I’m going to try and describe it in a way that somebody who has never used any of the relevant bits of software before can understand. Hopefully.
 
+![test](https://pbs.twimg.com/media/EnBMwdrW4AEcSDk?format=png&name=4096x4096)
+
 ![Islay 3D](Image 1.png)
 
 **I cannot emphasise enough that what I’m describing here is pretty much the limit of my understanding of most of the pieces of software involved. There may well be better or more efficient ways to do some or all of this (and I’m keen to know how if you do!), but this is the process I’ve been using. **
