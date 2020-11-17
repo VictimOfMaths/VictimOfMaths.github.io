@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Colin Angus"
 title_separator          : "-"
 name                     : &name "Colin Angus"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Colin Angus"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "Senior Research Fellow in the Sheffield Alcohol Research Group. Alcohol policy modeller interested in policy appraisal and evaluation with a focus on health inequalities. Also a big fan of graphs, cycling, maps and cake"
   location         : "Sheffield, UK"
-  employer         : "University of Sheffield
+  employer         : "University of Sheffield"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Angus+C&cauthor_id=29314407"
   googlescholar    : "https://scholar.google.co.uk/citations?user=ICnQa0gAAAAJ&hl=en"
-  email            : "c.r.angus@sheffield.ac.uk
+  email            : "c.r.angus@sheffield.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+Timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
